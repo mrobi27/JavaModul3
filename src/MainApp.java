@@ -11,5 +11,7 @@ public class MainApp {
         job.displayEstimatedDuration();          // estimasi durasi
         job.slowDown(200);  // perlambat
         job.speedUp(150);   // percepat
+
+        //Muhamad Robi Ardita
     }
 }
